@@ -21,3 +21,10 @@ make
 # build this project
 
 ./pusheen-worship
+```
+
+# Credit
+Original idea came from [Aries Cs](https://github.com/Aries0d0f/PusheenCanvas-html5) ([Demo](http://aries0d0f.com.tw/Pusheen/))
+
+# License
+MIT
